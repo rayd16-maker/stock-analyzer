@@ -4,10 +4,5 @@ numpy>=1.24.0
 matplotlib>=3.7.0
 flask>=2.3.0
 plyer>=2.1.0
-
-# إنشاء ملف requirements.txt
-streamlit
-yfinance
-pandas
-plotly
-numpy
+streamlit>=1.28.0
+plotly>=5.17.0
